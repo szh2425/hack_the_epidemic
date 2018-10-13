@@ -2,7 +2,7 @@
 
 <strong>Brainstorming ideas:</strong>
 
-1. Use blockchain to store genetic information of patient. 
+<strong>Use blockchain to store genetic information of patient.</strong>
 </br>Why?
 Genes of patients can tell:
 1. If they are predisposed to addiction 
@@ -17,7 +17,7 @@ For ex. If they prescribe opioids and the patient has gene for addiction, the do
 3. Secure data and ease of sharing between providers bc it uses blockchain 
 
 ------
-2. Use blockchain to track medication dispenser and basic vitals of patient 
+<strong>Use blockchain to track medication dispenser and basic vitals of patient</strong>
 Features:
 1. Create a pill dispenser to dispense one opioid at designated times
 2. Each dispense will be recorded on the blockchain, as well as patient vitals when dispense occurs like heart rate, temperature, alcohol breathalizer 
