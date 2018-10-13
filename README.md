@@ -18,7 +18,7 @@ For ex. If they prescribe opioids and the patient has gene for addiction, the do
 
 ------
 <strong>Use blockchain to track medication dispenser and basic vitals of patient</strong>
-Features:
+</br>Features:
 1. Create a pill dispenser to dispense one opioid at designated times
 2. Each dispense will be recorded on the blockchain, as well as patient vitals when dispense occurs like heart rate, temperature, alcohol breathalizer 
 3. Alerts doctors/family members if the patients vitals at the time of a dispense is awry
