@@ -1,8 +1,15 @@
 # hack_the_epidemic
 
-<strong>Brainstorming ideas:</strong>
+This project was bootstrapped from an existing web application from the Department of Biomedical Informatics at the Children’s Hospital of Philadelphia. The original code for the project is open source and free to use, as long as credit is given to the original source.
+https://github.com/chop-dbhi/biorepo-portal
+https://github.com/chop-dbhi/ehb-service
+https://github.com/chop-dbhi/ehb-client
+https://github.com/chop-dbhi/ehb-datasources
 
-<strong>Use blockchain to store genetic information of patient.</strong>
+
+</br></br></br>
+
+<strong>Use encrypted to store genetic information of patient and use blockchain to store transaction of database to prevent doctor shopping by patients</strong>
 </br>Why?
 Genes of patients can tell:
 1. If they are predisposed to addiction 
@@ -16,10 +23,5 @@ Features:
 For ex. If they prescribe opioids and the patient has gene for addiction, the doctor will receive an alert like “Be careful!” or “Consider using this instead” or “Limit dosage to” 
 3. Secure data and ease of sharing between providers bc it uses blockchain 
 
-------
-<strong>Use blockchain to track medication dispenser and basic vitals of patient</strong>
-</br>Features:
-1. Create a pill dispenser to dispense one opioid at designated times
-2. Each dispense will be recorded on the blockchain, as well as patient vitals when dispense occurs like heart rate, temperature, alcohol breathalizer 
-3. Alerts doctors/family members if the patients vitals at the time of a dispense is awry
-<br> The data collected could be useful for research into addiction
+
+
