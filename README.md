@@ -1,10 +1,11 @@
 # hack_the_epidemic
 
-This project was bootstrapped from an existing web application from the Department of Biomedical Informatics at the Children’s Hospital of Philadelphia. The original code for the project is open source and free to use, as long as credit is given to the original source.
-https://github.com/chop-dbhi/biorepo-portal
-https://github.com/chop-dbhi/ehb-service
-https://github.com/chop-dbhi/ehb-client
-https://github.com/chop-dbhi/ehb-datasources
+This project was bootstrapped from an existing web application, The Biorepository Toolkit, from the Department of Biomedical Informatics at the Children’s Hospital of Philadelphia. The original code for the project is open source and free to use, as long as credit is given to the original source.
+- Read about the original project here: https://biorepository-portal.readthedocs.io/en/latest/
+- https://github.com/chop-dbhi/biorepo-portal
+- https://github.com/chop-dbhi/ehb-service
+- https://github.com/chop-dbhi/ehb-client
+- https://github.com/chop-dbhi/ehb-datasources
 
 
 </br></br></br>
